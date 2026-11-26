@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh
 
 [![make.fun bounty](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
-[![Rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/vinzagent/u-rama-melon-make-the-ai-judge-laugh-302d0825/rank.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
-[![Reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/vinzagent/u-rama-melon-make-the-ai-judge-laugh-302d0825/reward.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![Rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/vinzagent/u-rama-melon-make-the-ai-judge-laugh-302d0825-entry/rank.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![Reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/vinzagent/u-rama-melon-make-the-ai-judge-laugh-302d0825-entry/reward.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
 
 A one-line office joke built to make an AI judge laugh.
 
